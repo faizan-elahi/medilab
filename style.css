@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6{
   align-items: center !important;
   justify-content: space-between !important;
   font-size: 14px !important;
-  color: #2c4964 !important;
+  color: red !important;
   white-space: nowrap !important;
   transition: 0.3s !important;
   border-bottom: 2px solid #fff !important;
